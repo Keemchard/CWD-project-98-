@@ -930,26 +930,26 @@ body {
   background-image: url(images/Men3.png);
 }
 .first-img2 {
-  background-image: url(images/kid6.jpg);
+  background-image: url(images/Men1.png);
 }
 .first-img3 {
-  background-image: url(images/Women5.jpg);
+  background-image: url(images/Men2.png);
 }
 .first-img4 {
-  background-image: url(images/Men1.png);
+  background-image: url(images/Men4.png);
 }
 
 .second-img1 {
-  background-image: url(images/kid1.jpg);
+  background-image: url(images/menShoe2.jpg);
 }
 .second-img2 {
-  background-image: url(images/kid2.jpg);
+  background-image: url(images/shoes3.svg);
 }
 .second-img3 {
-  background-image: url(images/kid3.jpg);
+  background-image: url(images/shoes1.svg);
 }
 .second-img4 {
-  background-image: url(images/kid4.jpg);
+  background-image: url(images/shoes4.svg);
 }
 
 /* ---------------------FOOTER------------------- */

@@ -1771,6 +1771,11 @@ footer {
   color: yellow;
   font-weight: bolder;
 }
+.fav-modal {
+  margin-top: 10px;
+  font-size: 10px;
+  color: yellow;
+}
 
 .show-modal {
   display: none;
