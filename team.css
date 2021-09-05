@@ -450,6 +450,7 @@ footer {
   justify-content: center;
   align-items: center;
   transition: 1s;
+  font-weight: bold;
 }
 .child-slide {
   position: absolute;
@@ -458,6 +459,16 @@ footer {
   width: 50%;
   transition: 1s;
 }
+/* .parent-con1 {
+  background: #3753da;
+  font-weight: bold;
+  color: yellow;
+}
+.parent-con2 {
+  background: yellow;
+  font-weight: bold;
+  color: #3753da;
+} */
 
 .parent:hover .child-slide {
   transform: translate(100%);
@@ -535,7 +546,7 @@ footer {
 }
 
 .cs-5 {
-  background-image: url(images/Team-Carpio.jpg);
+  background-image: url(images/Team-Crisologo.jpeg);
   background-position: center;
   background-size: cover;
 }
